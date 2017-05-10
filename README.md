@@ -1,10 +1,10 @@
 # vkScripts
-Блокує рекламу в vk.com
+Блокує рекламу в vk.com(рекламу зліва в панелі керування і в новинах платну рекламу)
 
 потрібно встановити спочатку  розширення Tampermonkey
 
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk
 
-а потім тут https://greasyfork.org/uk/scripts/29651-vkadblockjs
+а потім встановити vkAdblockJS https://greasyfork.org/uk/scripts/29651-vkadblockjs
 
-встановити vkAdblockJS
+
