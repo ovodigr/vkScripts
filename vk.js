@@ -3,7 +3,7 @@
 // @description  vkAdblockJS
 // @author Vovk Igor
 // @license MIT
-// @version 1.0
+// @version 1.3
 // @require  https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js
 // @include https://vk.com/*
 // ==/UserScript==
