@@ -3,7 +3,10 @@
 
 По замовчуванню стандартний <b>adbloсk</b> не блокує рекламу зліва в меню і в ручному режимі складно заблокувати рекламу в новинах
 
-а скрипт vkAdblockJS це робить автоматично
+а скрипт <b>vkAdblockJS</b> це робить автоматично
+
+![)](https://s8.hostingkartinok.com/uploads/images/2017/05/f508d754402a642383e8bf91ce15726c.jpg)
+
 
 потрібно встановити спочатку  розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk) 
 
