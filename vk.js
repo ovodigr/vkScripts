@@ -10,21 +10,17 @@
 
 var func = function(){
    // console.log("1");  
-    $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
+   $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
 };
 
 
 $(document).ready(function() 
 {
+   $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
+   setInterval(func,1000);
 
-
-     $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
-    
-//setTimeout(function(){
-//    $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
-//},1000);
-    
-     setInterval(func,1000);
-
+	//setTimeout(function(){
+	//    $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
+	//},1000);
 
 }); 
