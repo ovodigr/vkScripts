@@ -10,7 +10,7 @@
 
 var func = function(){
    // console.log("1");  
-   $(".ads_left").hide();
+   $("#ads_left").hide();
    $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
 };
 
@@ -19,7 +19,7 @@ $(document).ready(function()
 {
 
 	
-   $(".ads_left").hide();
+   $("#ads_left").hide();
    $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
    setInterval(func,1000);
 
