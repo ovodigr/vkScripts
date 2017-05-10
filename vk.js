@@ -15,7 +15,6 @@ var func = function(){
 
 $(document).ready(function() 
 {
-   $("#ads_left").hide();
-   $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
+   func();
    setInterval(func,1000);
 }); 
