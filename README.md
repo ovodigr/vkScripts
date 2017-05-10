@@ -10,7 +10,7 @@
 а потім встановити сам скрипт [vkAdblockJS](https://greasyfork.org/uk/scripts/29651-vkadblockjs)  
 
 
-![)](https://s8.hostingkartinok.com/uploads/images/2017/05/f508d754402a642383e8bf91ce15726c.jpg)
+![)](https://s8.hostingkartinok.com/uploads/images/2017/05/82e112db6201b4dc2b8dd9ed057ed27c.jpg)
 
 
 
