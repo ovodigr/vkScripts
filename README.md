@@ -5,10 +5,10 @@
 
 а скрипт vkAdblockJS це робить автоматично
 
-потрібно встановити спочатку  розширення Tampermonkey
+потрібно встановити спочатку  розширення [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk) 
 
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk
 
-а потім встановити сам скрипт vkAdblockJS https://greasyfork.org/uk/scripts/29651-vkadblockjs
+
+а потім встановити сам скрипт [vkAdblockJS](https://greasyfork.org/uk/scripts/29651-vkadblockjs)  
 
 
