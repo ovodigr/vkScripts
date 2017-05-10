@@ -5,7 +5,7 @@
 
 а скрипт <b>vkAdblockJS</b> це робить автоматично
 
-потрібно встановити спочатку  розширення <b>Tampermonkey</b> для  [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk) або для  [Mozilla Firefox](https://addons.mozilla.org/uk/firefox/addon/tampermonkey/)  
+потрібно встановити спочатку  розширення <b>Tampermonkey</b> для  [Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=uk) або для  [Mozilla Firefox](https://addons.mozilla.org/uk/firefox/addon/tampermonkey/)   або для  [Opera](https://addons.opera.com/uk/extensions/details/tampermonkey-beta/?display=en) 
 
 а потім встановити сам скрипт [vkAdblockJS](https://greasyfork.org/uk/scripts/29651-vkadblockjs)  
 
