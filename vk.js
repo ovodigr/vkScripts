@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name vkAdblockJS
-// @description  vkAdblockJS
+// @description  block ads in vk.com
 // @author Vovk Igor
 // @license MIT
 // @version 1.3
@@ -27,9 +27,8 @@ var func = function(){
    //блокує історію зверху
    $(".stories_feed_wrap").hide();
 
-	$(document).ready(function() 
-	{
-	   func();
-	   setInterval(func,1000);
-	}); 
-
+    $(document).ready(function() 
+    {
+       func();
+       setInterval(func,1000);
+    }); 
