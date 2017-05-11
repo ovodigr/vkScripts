@@ -9,12 +9,27 @@
 // ==/UserScript==
 
 var func = function(){
+    
+   //блокує рекламу зліва під меню
    $("#ads_left").hide();
+   
+   //блокує історію зверху
+   $(".stories_feed_wrap").hide();
+    
+   //блокує репост спільнотою спільноти
+   $("div[class^='feed_repost']").hide();
+    
+   //блокує платну рекламу в новинах
    $(".wall_marked_as_ads").parent().parent().parent().parent().parent().hide();
+    
 };
 
-$(document).ready(function() 
-{
-   func();
-   setInterval(func,1000);
-}); 
+   //блокує історію зверху
+   $(".stories_feed_wrap").hide();
+
+	$(document).ready(function() 
+	{
+	   func();
+	   setInterval(func,1000);
+	}); 
+
